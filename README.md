@@ -1,2 +1,2 @@
 # gitdemo
-A git Demo Project
+A Git Demo Project
